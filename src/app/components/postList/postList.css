@@ -1,0 +1,75 @@
+.posts{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.posts ul {
+  display: grid;
+  gap:20px;
+  width: 100%;
+}
+
+.posts ul > div > div{
+  display: flex;
+  width: 100%;
+  background-color: #FFFFFF;
+  align-items: center;
+}
+
+#holder{
+  width: 70%;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#holder > p {
+  font-size: 17px;
+  margin:15px;
+  margin-top: 5px;
+}
+  
+.posts ul > div > div>div> img{
+  height: 50px;
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  margin: 10px
+}
+
+#identification {
+  display: flex;
+  flex-direction: column;
+}
+#identification > p{
+  font-size: 15px;
+}
+
+#identification > p,#identification > strong{
+  margin:0;
+  text-align: left;
+}
+
+
+#comments{
+  width: 95%;
+  margin: 0 auto;
+}
+
+#comments > p {
+  margin:15px;
+  background-color: #ebebeb;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#comments > img{
+  height: 40px;
+  border-radius: 20px;
+  margin:5px
+}

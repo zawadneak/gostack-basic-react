@@ -28,6 +28,9 @@
   padding: 10px;
   border-radius: 10px;
 }
+#holder img,#holder strong{
+  cursor: pointer;
+}
 
 #holder > p {
   font-size: 17px;
@@ -39,7 +42,8 @@
   height: 50px;
   border-radius: 30px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
-  margin: 10px
+  margin: 10px;
+  cursor: pointer;
 }
 
 #identification {

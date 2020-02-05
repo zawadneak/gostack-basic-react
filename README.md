@@ -28,10 +28,13 @@ The challenge GitHub page can be seen [here](https://github.com/Rocketseat/bootc
 
 
 <p align="center">
-  <img src="http://i.imgur.com/V5Z78TP.png"/>
+  <img src="http://i.imgur.com/PsnuewQ.png"/>
 </p>
 
 
+<p align="center">
+  <img src="http://i.imgur.com/4zVcczo.png"/>
+</p>
 
 #### Changes and Implementations!
 Compare my changes to the [*bootcamp correction*](https://github.com/Rocketseat/bootcamp-gostack-desafio-04)

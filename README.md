@@ -39,7 +39,7 @@ Compare my changes to the [*bootcamp correction*](https://github.com/Rocketseat/
 - Implemented a few CSS changes, including the *react-icons* library
 - Used a **function/hooks** based application instead of a class/state!
 - Created my own posts, with different avatars and names!
-- Implemented *eslint* correction with AirBnB code pattern!
+- Implemented *eslint* correction with Airbnb code pattern!
 
 :wrench: Technologies used:
 ----------------------
